@@ -1,4 +1,4 @@
-equire("dotenv").config();
+require("dotenv").config();
 const { TwitterApi } = require("twitter-api-v2");
 
 // env variables
